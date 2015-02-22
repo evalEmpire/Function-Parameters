@@ -5,7 +5,7 @@ package BarfyDie;
 use strict;
 use warnings;
 
-use Function::Parameters qw(:strict);
+use Function::Parameters;
 
 
 # This _should_ produce a simple error like the following:
